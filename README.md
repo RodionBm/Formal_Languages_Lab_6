@@ -3,8 +3,8 @@
 **Author:** Cretu Dumitru  
 **Course:** Formal Languages & Finite Automata  
 **Date:** April 18, 2026  
-**Student:** [Your Name]  
-**Group:** [Your Group]  
+**Student:** Bulimar Rodion
+**Group:** FAF-242 
 
 ---
 
